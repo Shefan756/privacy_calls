@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Privacy Calls - Ultra-Secure Communication Platform
 
 A privacy-focused, end-to-end encrypted communication platform with advanced security features and unanimous voting system.
@@ -233,3 +234,6 @@ This is a privacy-focused project. Contributions that enhance security and priva
 ---
 
 **Built with privacy and security as top priorities. No data collection, no tracking, no compromises.**
+=======
+# privacy_calls
+>>>>>>> 496c963fb7c75f893f0d73c74cf181d38c08a351

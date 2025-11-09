@@ -252,7 +252,7 @@ If you find this project helpful, please consider giving it a star on GitHub! �
 
 ---
 
-**Made with ❤️ for students and professionals navigating their career journey**
+**Built with 🔐 for students and professionals committed to protecting their privacy...**
 
 
 **Version**: 1.0.0  

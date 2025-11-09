@@ -235,5 +235,27 @@ This is a privacy-focused project. Contributions that enhance security and priva
 
 **Built with privacy and security as top priorities. No data collection, no tracking, no compromises.**
 =======
-# privacy_calls
->>>>>>> 496c963fb7c75f893f0d73c74cf181d38c08a351
+# 📧 Support
+# Need help? Have questions?
+
+📧 Email: chinna4812@example.com  
+🐛 Issues: [GitHub Issues](https://github.com/yourusername/privacy-calls/issues)  
+💬 Discussions:[GitHub Discussions](https://github.com/yourusername/privacy-calls/discussions)   
+📖 Documentation:[Wiki](https://github.com/yourusername/privacy-calls/wiki)  
+
+( NOTE : AFTER OPENING THE ABOVE LINK IN URL REPLACE "yourusername" WITH YOUR GITHUB USERNAME. OTHERWISE THE LINK WONT'T WORK. )
+
+
+## 🌟 Star History
+
+If you find this project helpful, please consider giving it a star on GitHub! ⭐
+
+---
+
+**Made with ❤️ for students and professionals navigating their career journey**
+
+
+**Version**: 1.0.0  
+**Last Updated**: November 2025  
+**Maintained by**: TEAM CRYPT
+
